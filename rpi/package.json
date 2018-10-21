@@ -1,0 +1,11 @@
+{
+  "name": "trafficLight-rpi",
+  "version": "0.0.1",
+  "author": "Simon Arnell",
+  "license": "MIT",
+  "dependencies": {
+    "wiring-pi": "*",
+    "socket.io": "*",
+    "express": "*"
+  }
+}
